@@ -1,26 +1,18 @@
-### Hi there! 👋
+# 💫 About Me:
+## About Me<br><br>👋 Hey there! I'm Nabil Nasim, a passionate computer science student with a hunger for learning and building things.<br><br>🚀 Here's a glimpse of my tech journey so far:<br>- 🌐 Proficient in web development with HTML, CSS, Bootstrap, and JavaScript, including libraries like jQuery and DOM manipulation.<br>- 📦 Familiar with Node.js and Express.js for building back-end applications.<br>- 💻 Command line ninja with Unix-based systems.<br>- 🧲 Version control wizard with Git and GitHub.<br>- 🌟 Delving into the world of APIs and Backend Development, with a strong foundation in this fascinating domain.<br><br>I believe in continuous growth, and I'm currently exploring more about APIs and Backend Development to expand my knowledge and skills. Let's connect, collaborate, and learn together! 🌱<br><br>Feel free to explore my repositories below and don't hesitate to reach out. Happy coding! 🚀<br>
 
-I'm Nabil Nasim, a dedicated 3rd-year computer science student. Since starting my degree, I've been on an exciting journey of learning and growth in the world of technology.
 
-#### My Skill Set:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabil-nasim) 
 
-- HTML, CSS (Basic), Bootstrap
-- JavaScript (Basic) and its libraries, including jQuery and DOM manipulation
-- Node.js (Basic) and Express.js for server-side development
-- Command Line (Unix)
-- Git, GitHub, and version control
-- EJS for templating
-- API Fundamentals (and currently diving deeper into APIs)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nabil-Nasim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nabil-Nasim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Nasim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#### What's Next:
+---
+[![](https://visitcount.itsvg.in/api?id=Nabil-Nasim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm committed to furthering my knowledge and skills in the tech field. Here's what I'm currently working on and planning for the near future:
-
-- 🚀 **API Mastery**: I'm actively exploring advanced API concepts and integration to enhance my web development skills.
-
-- 💡 **Full-Stack Development**: My goal is to become a well-rounded developer, so I'm expanding my skills in both frontend and backend technologies.
-
-- 🌐 **Project Showcase**: I'm passionate about building real-world projects to demonstrate my skills. You can find them in my repositories.
-
-Feel free to connect with me and explore my projects. Let's learn and grow together! 😄
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
